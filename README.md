@@ -79,4 +79,4 @@ Now you are ready to use our API through any of web or desktop platform for your
 
 * Danil Dmitriev - [github](https://github.com/greyhayre)
 
-Project Link: [API YaMDb](https://github.com/ArtemMaksimov-trial/api_yamdb.git)
+Project Link: [API YaMDb](https://github.com/VadimVolkov87/api_yamdb.git)
