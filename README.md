@@ -31,9 +31,9 @@ Use the following commands in your terminal to prepare your project for local la
 
 * Creating local copy of the project
 ```
-git clone https://github.com/ArtemMaksimov-trial/api_yamdb.git
+git clone https://github.com/VadimVolkov87/Ap_YaMdb.git
 ```
-* Creating virtual environment from the root folder `.../api_yamdb`
+* Creating virtual environment from the root folder `.../Ap_YaMdb`
 ```
 python -m venv venv
 ```
@@ -45,7 +45,7 @@ source venv/Scripts/activate
 ```
 pip install -r requirements.txt
 ```
-* Switching to an internal folder `.../api_yamdb/api_yamdb`
+* Switching to an internal folder `.../Ap_YaMdb/api_yamdb`
 ```
 cd api_yamdb
 ```
@@ -79,4 +79,4 @@ Now you are ready to use our API through any of web or desktop platform for your
 
 * Danil Dmitriev - [github](https://github.com/greyhayre)
 
-Project Link: [API YaMDb](https://github.com/VadimVolkov87/api_yamdb.git)
+Project Link: [API YaMDb](https://github.com/VadimVolkov87/Ap_YaMdb.git)
